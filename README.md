@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I am Vinicius Trentin 👋
 
-<!--
-**vitrentin/vitrentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### About
+I am a Web Developer, and I am studing web development at [Rocketseat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+##### Current stack
+- :zap: Main language: `Javascript`
+-  📡 Backend: `NodeJS`
+-  :tada: Frontend: `ReactJS`, `HTML5` and `CSS3`
+-  :art: Layout Design: `Figma`
+-  :package: Version code control: `Git & GitHub`
+-  :hammer: Tools: `VsCode`, `Markdown`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Contacts
+
+- 📬 Email: vtrentindev@gmail.com
+- 👔 Linkedin: https://www.linkedin.com/in/vtrentindev/
